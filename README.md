@@ -1,2 +1,3 @@
 # JCDV-App
-Proyecto Backend para mi iglesia
+Proyecto Backend para mi iglesia xD
+
